@@ -1,1 +1,1 @@
-# data-structure-and-algorithm-journey
+# REPOSITORY FOR ANYTHING DATA STRUCTURE AND ALGORITHM
